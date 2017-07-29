@@ -1,2 +1,3 @@
-Full instructions available on Hackster:
-https://www.hackster.io/awshome/awshome-home-automation-using-rpi-alexa-iot-a3d3dc
+Full instructions available 
+https://docs.google.com/document/d/1_CKUg07I73VGRjdkGMdae2RW_K52bbjAXKruq_0Vefw/edit?usp=sharing
+
